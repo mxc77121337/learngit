@@ -4,4 +4,5 @@
 void ADC_print(void)
 {
 	printf("ADC.\n");
+	printf("end");
 }

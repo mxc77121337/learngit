@@ -16,5 +16,6 @@ int main(void)
 	utils_print();
 
 	iic_printf();
+	printf("end");
 	return 0;
 }
